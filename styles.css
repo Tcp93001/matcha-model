@@ -134,3 +134,7 @@ body {
     padding-bottom: 40px;
     padding-right: 20px;
 }
+@media (max-width=425px) 
+  .navbar {display: none;}
+  .logo {padding:70px;}
+}
